@@ -1,0 +1,29 @@
+azure-etl-sales-pipeline/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── requirements.txt
+│
+├── architecture/
+│   ├── architecture.drawio
+│   └── architecture.png
+│
+├── src/
+│   ├── generate_data.py
+│   ├── trigger_pl.py
+│   └── verify_output.py
+│
+├── adf/
+│   ├── pipeline.json
+│   ├── datasets/
+│   └── linked_services/
+│
+├── sample_data/
+│   ├── sales_raw.csv
+│   └── sales_processed.csv
+│
+└── images/
+    ├── pipeline.png
+    ├── blob_storage.png
+    └── execution.png

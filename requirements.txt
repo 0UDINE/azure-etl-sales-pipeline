@@ -1,0 +1,7 @@
+azure-storage-blob>=12.27.0
+azure-identity>=1.25.0
+azure-mgmt-datafactory>=9.2.0
+azure-core>=1.41.0
+pandas>=2.3.0
+numpy>=2.3.0
+python-dotenv>=1.1.0
